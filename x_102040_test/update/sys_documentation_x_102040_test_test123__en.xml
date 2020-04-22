@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test123" language="en" table="x_102040_test_test123">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test123</label>
+            <language>en</language>
+            <name>x_102040_test_test123</name>
+            <plural>Test123s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-22 07:57:49</sys_created_on>
+            <sys_id>17310ac6db5010103bc380876896193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test123</sys_name>
+            <sys_package display_value="Test" source="x_102040_test">ccd0ca86db5010103bc38087689619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">ccd0ca86db5010103bc38087689619db</sys_scope>
+            <sys_update_name>sys_documentation_x_102040_test_test123__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-22 07:57:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
